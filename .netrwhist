@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/nirmalps/workspace/leap-api'
 let g:netrw_dirhist_2='/Users/nirmalps'
+let g:netrw_dirhist_3='/Users/nirmalps/.vim'
+let g:netrw_dirhist_4='/Users/nirmalps'
+let g:netrw_dirhist_5='/Users/nirmalps/.vim'
